@@ -1,0 +1,40 @@
+body {
+  margin-left: 2%;
+  margin-right: 2%;
+  background: #bb8c53;
+  box-sizing: border-box;
+}
+
+p {
+  font-family: Verdana, sans-serif;
+}
+
+h1 {
+  font-family: "Palatino Linotype", "Book Antiqua",  serif;
+  font-size: 40px;
+}
+
+#head {
+  background: #ceac83;
+  padding: 10px;
+  margin-bottom: 5px;
+  margin: auto;
+  text-align: center;
+}
+
+#body {
+  background: #ffe4c4;
+  padding: 12px;
+  margin: auto;
+  text-align: center;
+}
+
+img {
+  width: 100%;
+  max-width: 1000px;
+  max-height: 650px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  display: block;
+  margin: 0 auto;
+}
